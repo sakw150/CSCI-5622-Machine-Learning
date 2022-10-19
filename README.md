@@ -1,4 +1,4 @@
-# CSCI-5622-Machine-Learning
+# CSCI 5622: Machine Learning
 The varieties of red and white wine are increasing every year. The increased production and sales of wine make it harder for the consumer to purchase good quality wine.
 In this machine learning project, wine-related datasets were collected to examine the properties and satisfaction associated with some red wines. 
 Four datasets will primarly be utilized to perform data cleaning and visualization, unsupervised learning methods, and supervised learning methods.
