@@ -10,3 +10,5 @@ The project will be divided into the following steps below. Writeup and codes as
 1) Data Cleaning and Visualization
 2) Unsupervised Methods: Clustering and Association Rule Mining
 3) Supervised Methods: Decisions Trees, Naive Bayes, Support Vector Machines 
+
+Languages: Python and R 
