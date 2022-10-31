@@ -5,7 +5,8 @@ Four datasets will primarly be utilized to perform data cleaning and visualizati
 Chemical analysis data will be used to examine the relationship between chemical composition influences on final consumer satisfaction.
 Wine rating produced by the Wine Enthusiast include both text and numeric data which will be used to examine relationships between the red wine description and chemical composition with consumer satisfaction.
 Specific wine data from Portugal present information on chemical composition and satisfaction. Lastly, news API data was also included to examine current information and public sentiment towards wine. 
-The project will be divided into the following steps below. Writeup and codes associated with each step will be provided. 
+The project will be divided into the following steps below. Writeup and codes associated with each step will be provided. Cleaned WineEnthusiast datset will be avaliable upon request. 
+
 
 1) Data Cleaning and Visualization
 2) Unsupervised Methods: Clustering and Association Rule Mining
